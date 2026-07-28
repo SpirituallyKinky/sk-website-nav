@@ -10,7 +10,7 @@ document.write(`
       <a href="/work-with-me" style="color:#cccccc;font-family:'DM Sans',sans-serif;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none;white-space:nowrap;flex-shrink:0;">Work with me</a>
       <a href="https://spirituallykinky.buzzsprout.com" style="color:#cccccc;font-family:'DM Sans',sans-serif;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none;white-space:nowrap;flex-shrink:0;">Podcast</a>
       <a href="/blog" style="color:#cccccc;font-family:'DM Sans',sans-serif;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none;white-space:nowrap;flex-shrink:0;">Blog</a>
-      <a href="/nervous-system-manifestation" style="color:#cccccc;font-family:'DM Sans',sans-serif;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none;white-space:nowrap;flex-shrink:0;">Guides</a>
+      <a href="/guides" style="color:#cccccc;font-family:'DM Sans',sans-serif;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;text-decoration:none;white-space:nowrap;flex-shrink:0;">Guides</a>
       <a href="https://calendly.com/dustinleawheeler/visioncall" style="background:#b41e76;color:#ffffff;padding:11px 18px;font-family:'DM Sans',sans-serif;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;font-weight:600;text-decoration:none;white-space:nowrap;box-shadow:0 0 20px rgba(180,30,118,0.4);display:inline-block;flex-shrink:0;">Book a Vision Call</a>
     </div>
     <label for="sk-menu-toggle" class="sk-nav-mobile-btn" style="display:none;cursor:pointer;padding:8px;flex-shrink:0;">
@@ -22,7 +22,7 @@ document.write(`
     <a href="/work-with-me" style="color:#cccccc;font-family:'DM Sans',sans-serif;font-size:13px;letter-spacing:2px;text-transform:uppercase;text-decoration:none;text-align:center;">Work with me</a>
     <a href="https://spirituallykinky.buzzsprout.com" style="color:#cccccc;font-family:'DM Sans',sans-serif;font-size:13px;letter-spacing:2px;text-transform:uppercase;text-decoration:none;text-align:center;">Podcast</a>
     <a href="/blog" style="color:#cccccc;font-family:'DM Sans',sans-serif;font-size:13px;letter-spacing:2px;text-transform:uppercase;text-decoration:none;text-align:center;">Blog</a>
-    <a href="/nervous-system-manifestation" style="color:#cccccc;font-family:'DM Sans',sans-serif;font-size:13px;letter-spacing:2px;text-transform:uppercase;text-decoration:none;text-align:center;">Guides</a>
+    <a href="/guides" style="color:#cccccc;font-family:'DM Sans',sans-serif;font-size:13px;letter-spacing:2px;text-transform:uppercase;text-decoration:none;text-align:center;">Guides</a>
     <a href="https://calendly.com/dustinleawheeler/visioncall" style="background:#b41e76;color:#ffffff;padding:14px 24px;font-family:'DM Sans',sans-serif;font-size:12px;letter-spacing:2px;text-transform:uppercase;font-weight:600;text-decoration:none;text-align:center;margin:0 24px;">Book a Vision Call</a>
   </div>
 </div>
